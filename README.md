@@ -2,12 +2,10 @@
 <head>
   <h1>Together</h1>
   <meta charset="utf-8">
-  <title> </title>
  
 </head>
   
-<body>
-  <img src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer-1024x512.jpg"alt"">
+  <img src="https://kinsta.com/wp-content/uploads/2021/07/how-to-become-a-web-developer-1024x512.jpg"alt"" </img>
  <h2>Web developers</h2>
   <hr>
   <h4><p>We are a unique company for Web development.</p>
@@ -55,7 +53,8 @@
           </tfoot>
           <hr>
            
-           <form action=" action=""mailto:davidarismendy4@outlook.com"method="post" enctype="text/plain">
+           <form action=" action=""mailto:davidarismendy4@outlook.com"method="post" enctype="text/plain" </form>
+           <form>
              <label>Name:</label>
               <input type="text" name="yourName" value=""><br>
              <label>Email:</label>
